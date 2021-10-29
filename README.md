@@ -47,7 +47,7 @@ If you Like Idea/ Research Paper/Project then Mail or Click on Star buttonüôèü
 
 ### New CSE Project (21 OCT 21) : [Face Mask Detection Project](https://github.com/Vatshayan/Face-Mask-Detection-Project)
 
-### COMPUTER SCIENCE PROJECT HELP: [CLICK HERE](https://www.cse-projects.com)
+### COMPUTER SCIENCE PROJECTS: [CLICK HERE](https://www.cse-projects.com)
 
 ### Top 3 Cryptography Projects on Internet : [Blog](https://computerscienceproject.com/top-cryptography-final-year-projects-for-students)
 
