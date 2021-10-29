@@ -15,6 +15,7 @@ Final Year Projects as Deletion of Duplicated files so to Increase the space of 
 
 - The goal of this Project is to use a machine learning approach to remove those duplicate entries.
 
+## Want Project files ? 
 
 **You Can use this Beautiful Project for your college Project and get good marks too.**
 
