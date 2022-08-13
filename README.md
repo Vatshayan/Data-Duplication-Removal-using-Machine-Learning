@@ -30,27 +30,18 @@ In computing, data deduplication is a technique for eliminating duplicate copies
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
 💌 Feel free to contact me for any kind of help on any projects.
- 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
 
-### 📫 HOW TO REACH ME 
+### Need Code, Documents & Explanation video ? 
 
-💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
+## How to Reach me :
 
-💬 Gmail: **vatshayan007@gmail.com**
+### Mail : vatshayan007@gmail.com 
 
-I am here to help you, Don't worry Mail or Message me anytime😄
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### Liked Project?
-If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
+### Website : https://www.finalproject.in/
 
-### New CSE Project (18 OCT 21) : [Road Lane Detection System](https://github.com/Vatshayan/Road-Detection-System)
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
 
-### New CSE Project (21 OCT 21) : [Face Mask Detection Project](https://github.com/Vatshayan/Face-Mask-Detection-Project)
+### New CSE Project : [Face Mask Detection Project](https://github.com/Vatshayan/Face-Mask-Detection-Project)
 
-### COMPUTER SCIENCE PROJECTS: [CLICK HERE](https://www.cse-projects.com)
-
-### Top 3 Cryptography Projects on Internet : [Blog](https://computerscienceproject.com/top-cryptography-final-year-projects-for-students)
-
-Mail/Message me for free Discussion 
