@@ -1,6 +1,5 @@
-# Data-Duplication-Removal-using-Checksum-Project
+# Data-Duplication-Removal-Project
 
-"Deletion of Duplicated files so to Increase the space of system. Process will be done through checksum" 
 
 Project is based on Machine Learning
 ![A Salute to Our Veterans](https://user-images.githubusercontent.com/28294942/139524192-b4379891-963b-4c8a-914f-b726a24009cb.png)
