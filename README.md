@@ -2,6 +2,10 @@
 
 
 Project is based on Machine Learning
+
+### Youtube Explanation : https://www.youtube.com/watch?v=_b_7sjDpuC0
+
+
 ![A Salute to Our Veterans](https://user-images.githubusercontent.com/28294942/139524192-b4379891-963b-4c8a-914f-b726a24009cb.png)
 
 
@@ -48,4 +52,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 ### 1000 Computer Science Projects : https://www.computer-science-project.in/
 
 ### New CSE Project : [Face Mask Detection Project](https://github.com/Vatshayan/Face-Mask-Detection-Project)
+
+### Youtube Explanation : https://www.youtube.com/watch?v=_b_7sjDpuC0
+
 
