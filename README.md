@@ -51,7 +51,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ### 1000 Computer Science Projects : https://www.computer-science-project.in/
 
-### New CSE Project : [Face Mask Detection Project](https://github.com/Vatshayan/Face-Mask-Detection-Project)
+### New CSE Project : [Rainfall Prediction Project](https://github.com/Vatshayan/B.tech-Project-Rainfall-Predication-in-India)
 
 ### Youtube Explanation : https://www.youtube.com/watch?v=_b_7sjDpuC0
 
